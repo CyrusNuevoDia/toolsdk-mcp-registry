@@ -1,0 +1,15 @@
+{
+  "type": "mcp-server",
+  "name": "Paper Plane Post",
+  "packageName": "@toolsdk-remote/paper-plane-post",
+  "description": "Create an unpaid photo postcard draft, then review and pay for printing and mailing on the website. No account is required.",
+  "readme": "https://paperplanepost.com/for/agents",
+  "runtime": "node",
+  "env": {},
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://api.paperplanepost.com/v1/mcp"
+    }
+  ]
+}
