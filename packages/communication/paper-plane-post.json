@@ -2,7 +2,7 @@
   "type": "mcp-server",
   "name": "Paper Plane Post",
   "packageName": "@toolsdk-remote/paper-plane-post",
-  "description": "Create an unpaid photo postcard draft, then review and pay for printing and mailing on the website. No account is required.",
+  "description": "Create and send an AI-illustrated postcard anywhere in the world",
   "readme": "https://paperplanepost.com/for/agents",
   "runtime": "node",
   "env": {},
